@@ -1,0 +1,11 @@
+.card {
+    width: 18rem;
+}
+a {
+    cursor: pointer;
+}
+#readDiv {
+    border: 5px outset red;
+    background-color: lightblue;
+    text-align: center;
+}
